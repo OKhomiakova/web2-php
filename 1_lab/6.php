@@ -1,0 +1,1 @@
+echo $mas["one"]. " ". $mas[2]. " ". $mas[3];

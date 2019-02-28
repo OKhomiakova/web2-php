@@ -1,0 +1,2 @@
+echo $HOST;
+echo @$HOST;

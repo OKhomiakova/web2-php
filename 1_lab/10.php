@@ -1,0 +1,2 @@
+$name = "a";
+echo ${$name};
