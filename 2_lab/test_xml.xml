@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="yes"?> 
+<test> 
+
+<question id="1">
+<name>Первый вопрос</name>
+<answer id="1">Первый ответ на вопрос 1</answer>
+<answer id="2">Второй ответ на вопрос 1</answer>
+<answer id="3">Третий ответ на вопрос 1</answer>
+</question>
+
+<br>
+<br>
+<br>
+
+<question id="2">
+<name>Второй вопрос</name>
+<answer id="1">Первый ответ на вопрос 2</answer>
+<answer id="2">Второй ответ на вопрос 2</answer>
+</question>
+
+<question id="1">
+<name>Первый вопрос</name>
+<answer id="1">Первый ответ на вопрос 1</answer>
+<answer id="234">Второй ответ на вопрос 1</answer>
+<answer id="3">Третий ответ на djghjcbr</answer>
+</question>
+
+</test> 
