@@ -33,7 +33,7 @@
 		}
 		else {
 			$cntAns += 1;
-			echo "<p>" . $curQuestionId . "." . $cntAns . " " . $correctHtml . "</p>";			
+			echo "<p style='padding-left:2em'>" . $curQuestionId . "." . $cntAns . " " . $correctHtml . "</p>";			
 		}
 
 	}
