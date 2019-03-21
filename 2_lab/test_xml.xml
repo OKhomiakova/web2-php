@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?> 
+<test> 
+
+<question id="1">
+<name>пЕРВЫЙ              вопрос              </name>
+<answer id="1">            первый ответ             на вопрос 1        </answer>
+<answer id="2">второй ответ на вопрос 1</answer>
+<answer id="3">третий ответ на вопрос 1</answer>
+</question>
+
+
+<question id="2">
+<name>Второй вопрос</name>
+<answer id="1">Первый ответ на вопрос 2</answer>
+<answer id="2">Второй ответ на вопрос 2</answer>
+</question>
+
+
+<question id="3">
+<name>Third question</name>
+<answer id="1">First answer on the third question</answer>
+<answer id="2">Second answer on the third question</answer>
+</question>
+</test> 
