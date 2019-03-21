@@ -23,6 +23,7 @@
 		$correctHtml = ucfirst($correctHtml);
 		$correctHtml = preg_replace("/ {2,}/", " ", $correctHtml);
 		$correctHtml = htmlspecialchars($correctHtml);
+		$correctHtml = trim($correctHtml);
 
 		if(empty($correctHtml))
 			continue;
